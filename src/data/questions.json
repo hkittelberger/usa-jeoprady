@@ -1,0 +1,71 @@
+{
+  "title": "July 4th in November",
+  "categories": [
+    {
+      "name": "THE PRESIDENTS",
+      "clues": [
+        { "value": 200, "clue": "The only president to resign. Not a crook, allegedly.", "answer": "Richard Nixon", "accept": ["nixon", "richard nixon", "richard m nixon"] },
+        { "value": 400, "clue": "The other president to be assassinated in office alongside Abraham Lincoln, William McKinley, and John F. Kennedy.", "answer": "James A. Garfield", "accept": ["garfield", "james garfield", "james a garfield"] },
+        { "value": 600, "clue": "This 300+ pound president had an extra-large bathtub installed in the White House.", "answer": "William Howard Taft", "accept": ["taft", "william taft", "william howard taft", "william h taft"] },
+        { "value": 800, "clue": "This president is on the $50 bill.", "answer": "Ulysses S. Grant", "accept": ["grant", "ulysses grant", "ulysses s grant"] },
+        { "value": 1000, "clue": "Before Donald Trump, he was the only president to serve two non-consecutive terms.", "answer": "Grover Cleveland", "accept": ["cleveland", "grover cleveland"] }
+      ]
+    },
+    {
+      "name": "WE THE PEOPLE CAN COUNT",
+      "clues": [
+        { "value": 200, "clue": "Number of stripes on the US flag.", "answer": "13", "accept": ["13", "thirteen"] },
+        { "value": 400, "clue": "A Senator serves this many years.", "answer": "6", "accept": ["6", "six", "6 years", "six years"] },
+        { "value": 600, "clue": "The House has this many voting members.", "answer": "435", "accept": ["435", "four hundred thirty five", "four hundred and thirty five"] },
+        { "value": 800, "clue": "The number of justices on the Supreme Court.", "answer": "9", "accept": ["9", "nine"] },
+        { "value": 1000, "clue": "The Constitution has been amended this many times.", "answer": "27", "accept": ["27", "twenty seven"] }
+      ]
+    },
+    {
+      "name": "FOUNDING FATHERS",
+      "clues": [
+        { "value": 200, "clue": "His giant signature on the Declaration made his name slang for \"signature.\"", "answer": "John Hancock", "accept": ["hancock", "john hancock"] },
+        { "value": 400, "clue": "The first three words of the Constitution.", "answer": "We the People", "accept": ["we the people"] },
+        { "value": 600, "clue": "George Washington's false teeth were famously NOT made of this.", "answer": "Wood", "accept": ["wood", "wooden"] },
+        { "value": 800, "clue": "The first president to live in the White House. Spoiler: not Washington.", "answer": "John Adams", "accept": ["adams", "john adams"] },
+        { "value": 1000, "clue": "In a letter, Ben Franklin trash-talked the bald eagle and praised this bird instead.", "answer": "The turkey", "accept": ["turkey", "turkeys", "wild turkey"] }
+      ]
+    },
+    {
+      "name": "GEOGRAPHY",
+      "clues": [
+        { "value": 200, "clue": "The second smallest state.", "answer": "Delaware", "accept": ["delaware"] },
+        { "value": 400, "clue": "The only state whose name is one syllable.", "answer": "Maine", "accept": ["maine"] },
+        { "value": 600, "clue": "The only state with a flag that isn't a rectangle.", "answer": "Ohio", "accept": ["ohio"] },
+        { "value": 800, "clue": "The four states that meet at Four Corners.", "answer": "Utah, Colorado, Arizona, and New Mexico", "matchMode": "allOf", "accept": ["utah", "colorado", "arizona", "new mexico"] },
+        { "value": 1000, "clue": "Name all five Great Lakes.", "answer": "Huron, Ontario, Michigan, Erie, and Superior", "matchMode": "allOf", "accept": ["huron", "ontario", "michigan", "erie", "superior"] }
+      ]
+    },
+    {
+      "name": "AMERICA IN POP CULTURE",
+      "clues": [
+        { "value": 200, "clue": "Childish Gambino's 2018 viral video.", "answer": "\"This Is America\"", "accept": ["this is america"] },
+        { "value": 400, "clue": "In Night at the Museum, Robin Williams plays this president, who comes to life as a wax figure on horseback.", "answer": "Theodore Roosevelt", "accept": ["roosevelt", "teddy roosevelt", "theodore roosevelt", "teddy", "tr"] },
+        { "value": 600, "clue": "Miley hopped off the plane at LAX in this 2009 hit.", "answer": "\"Party in the U.S.A.\"", "accept": ["party in the usa", "party in the us", "party in usa"] },
+        { "value": 800, "clue": "Bruce Springsteen's 1984 anthem that people play at cookouts without realizing it's a protest song.", "answer": "\"Born in the U.S.A.\"", "accept": ["born in the usa", "born in the us", "born in usa"] },
+        { "value": 1000, "clue": "Will Smith punches an alien and says \"Welcome to Earth\" in this 1996 movie set over the July 4th weekend.", "answer": "Independence Day", "accept": ["independence day", "id4"] }
+      ]
+    },
+    {
+      "name": "AMERICAN RITUALS",
+      "clues": [
+        { "value": 200, "clue": "The day after Thanksgiving, when Americans fight each other over discounted TVs.", "answer": "Black Friday", "accept": ["black friday"] },
+        { "value": 400, "clue": "Animal Planet's alternative to the Super Bowl.", "answer": "The Puppy Bowl", "accept": ["puppy bowl"] },
+        { "value": 600, "clue": "At baseball games, everyone sings \"Take Me Out to the Ball Game\" during this break.", "answer": "The seventh-inning stretch", "accept": ["seventh inning stretch", "7th inning stretch", "seventh inning", "7th inning"] },
+        { "value": 800, "dailyDouble": true, "verbal": true, "clue": "Recite the Pledge of Allegiance. Word for word.", "answer": "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." },
+        { "value": 1000, "clue": "Every February 2nd, Americans ask this Pennsylvania groundhog for a weather forecast.", "answer": "Punxsutawney Phil", "accept": ["punxsutawney phil", "punxsutawney", "phil"] }
+      ]
+    }
+  ],
+  "final": {
+    "category": "THE ANTHEM",
+    "clue": "Francis Scott Key wrote the lyrics while watching the British bombard this Baltimore fort during the War of 1812.",
+    "answer": "Fort McHenry",
+    "accept": ["fort mchenry", "ft mchenry", "mchenry", "fort mc henry"]
+  }
+}
