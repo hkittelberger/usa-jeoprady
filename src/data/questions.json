@@ -12,7 +12,7 @@
       ]
     },
     {
-      "name": "WE THE PEOPLE CAN COUNT",
+      "name": "1 2 BUCKLE MY SHOE",
       "clues": [
         { "value": 200, "clue": "Number of stripes on the US flag.", "answer": "13", "accept": ["13", "thirteen"] },
         { "value": 400, "clue": "A Senator serves this many years.", "answer": "6", "accept": ["6", "six", "6 years", "six years"] },
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": "AMERICA IN POP CULTURE",
+      "name": "AMERICA'S GOT TALENT'",
       "clues": [
         { "value": 200, "clue": "Childish Gambino's 2018 viral video.", "answer": "\"This Is America\"", "accept": ["this is america"] },
         { "value": 400, "clue": "In Night at the Museum, Robin Williams plays this president, who comes to life as a wax figure on horseback.", "answer": "Theodore Roosevelt", "accept": ["roosevelt", "teddy roosevelt", "theodore roosevelt", "teddy", "tr"] },
@@ -63,7 +63,7 @@
     }
   ],
   "final": {
-    "category": "THE ANTHEM",
+    "category": "O SAY, CAN YOU SEE?",
     "clue": "Francis Scott Key wrote the lyrics while watching the British bombard this Baltimore fort during the War of 1812.",
     "answer": "Fort McHenry",
     "accept": ["fort mchenry", "ft mchenry", "mchenry", "fort mc henry"]
